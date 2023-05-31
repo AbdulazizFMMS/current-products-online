@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <style name="AppTheme" parent="BaseTheme">-->
+<!--        <item name="android:navigationBarColor">@android:color/transparent</item>-->
+<!--        <item name="android:enforceNavigationBarContrast">false</item>-->
+<!--    </style>-->
+
+<!--    <style name="AppDarkTheme" parent="BaseDarkTheme">-->
+<!--        <item name="android:navigationBarColor">@android:color/transparent</item>-->
+<!--        <item name="android:enforceNavigationBarContrast">false</item>-->
+<!--    </style>-->
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dialog_font_size">
+        <item>@string/font_size_xsmall</item>
+        <item>@string/font_size_small</item>
+        <item>@string/font_size_medium</item>
+        <item>@string/font_size_large</item>
+        <item>@string/font_size_xlarge</item>
+    </string-array>
+
+    <string-array name="dialog_recipes_columns">
+        <item>@string/option_menu_recipes_2_columns</item>
+        <item>@string/option_menu_recipes_3_columns</item>
+    </string-array>
+
+</resources>

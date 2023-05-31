@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app info-->
+    <string name="app_name">عروض متاجر تركيا</string>
+    <string name="app_copyright">Copyright &#169; 2023 Nokta-TR Developer \n All rights reserved</string>
+    <string name="share_text">عروض تركيا بالعربي. يمكنك تنزيل هذا التطبيق من Google Play</string>
+
+    <!--bottom navigation menu name-->
+    <string name="title_nav_recent">احدث العروض</string>
+    <string name="title_nav_category">المتاجر</string>
+    <string name="title_nav_favorite">المفضلة</string>
+
+    <!--toolbar main menu-->
+    <string name="menu_more">المزيد</string>
+    <string name="menu_overflow_settings">الإعدادات</string>
+    <string name="menu_overflow_rate_us">قيَمنا</string>
+    <string name="menu_overflow_more_apps">المزيد من التطبيقات</string>
+    <string name="menu_overflow_share">مشاركة</string>
+    <string name="menu_overflow_about">حول</string>
+
+    <!--favorite-->
+    <string name="msg_favorite_added">تمت الاضافة الى المفضلة</string>
+    <string name="msg_favorite_removed">تم الحذف من المفضلة</string>
+    <string name="no_favorite_found">قائمة المفضلة لديك فارغة لأنك لم تضف أي عروض في قائمة المفضلة.</string>
+
+    <!--font size name -->
+    <string name="title_dialog_font_size">إختر حجم النص</string>
+    <string name="font_size_xsmall">صغير جدا</string>
+    <string name="font_size_small">صغير</string>
+    <string name="font_size_medium">متوسط</string>
+    <string name="font_size_large">كبير</string>
+    <string name="font_size_xlarge">كبير جدا</string>
+
+    <!--search-->
+    <string name="title_menu_search">البحث</string>
+    <string name="search_hint">البحث&#8230;</string>
+
+    <!--network & error message-->
+    <string name="whops">عذرا!</string>
+    <string name="failed_title_text">عذرا!</string>
+    <string name="failed_text">هناك مشكلة في الشبكة أو أن الخادم معطل ، حاول مرة أخرى لاحقًا.</string>
+    <string name="no_category_found">لا يبدو أن هناك عروض متاحة في الوقت الحالي.</string>
+    <string name="no_search_found">البحث غير متوفر! يرجى محاولة إدخال كلمة رئيسية أخرى!</string>
+    <string name="msg_no_item">لا يوجد أي محتوى متاح في الوقت الحالي.</string>
+    <string name="msg_search_input">الرجاء إدخال كلمة أساسية!</string>
+    <string name="btn_retry">أعد المحاولة</string>
+    <string name="dialog_option_ok">موافق</string>
+
+    <!--settings and others-->
+    <string name="txt_title_settings">الاعدادات</string>
+    <string name="title_setting_theme">الوضع الليلي</string>
+    <string name="sub_title_setting_theme">رؤية أفضل وتوفير للطاقة</string>
+    <string name="msg_please_wait">الرجاء الانتظار&#8230;</string>
+    <string name="content_description">TODO</string>
+    <string name="title_setting_notification">التحكم بالاشعارات</string>
+    <string name="sub_title_setting_notification">ادارة اعدادات الاشعارات</string>
+    <string name="title_setting_clear_cache">مسح ذاكرة التخزين المؤقت</string>
+    <string name="sub_setting_clear_cache_start">تنظيف</string>
+    <string name="sub_setting_clear_cache_end">من الذاكرة</string>
+    <string name="title_setting_privacy">سياسة الخصوصية</string>
+    <string name="title_setting_rate">قيمنا</string>
+    <string name="title_setting_more_apps">تطبيقات أخرى</string>
+    <string name="title_setting_about">حولنا</string>
+    <string name="msg_about_version">إصدار</string>
+    <string name="title_menu_browser">فتح في المتصفح</string>
+    <string name="title_setting_display_recipes">طريقة العرض</string>
+    <string name="msg_clearing_cache">جاري مسح ذاكرة التخزين المؤقت</string>
+    <string name="msg_clear_cache">هل أنت متأكد من أنك تريد مسح ذاكرة التخزين المؤقت؟</string>
+    <string name="msg_cache_cleared">تم مسح ذاكرة التخزين المؤقت</string>
+    <string name="option_menu_recipes_2_columns">2 صف</string>
+    <string name="option_menu_recipes_3_columns">3 صفوف</string>
+    <string name="option_yes">نعم</string>
+    <string name="option_cancel">الغاء</string>
+    <string name="txt_related">عروض اخرى</string>
+    <string name="category_image_ratio">H,2:1</string>
+    <string name="txt_uncategorized">غير مصنف</string>
+
+    <!--redirect if app suspended-->
+    <string name="redirect_title">تحديثات التطبيق الجديدة</string>
+    <string name="redirect_message">انتهت صلاحية هذا التطبيق ولم يعد مستخدمًا ، اضغط على الزر أدناه لتنزيل آخر تحديث لهذا التطبيق وتثبيته.</string>
+    <string name="redirect_button">قم بتنزيل التحديث الآن</string>
+    <string name="redirect_error">عذرًا! هناك مشكلة في عنوان url ، حاول مرة أخرى لاحقًا</string>
+
+    <!--exit message-->
+    <string name="press_again_to_exit">اضغط مرة أخرى للخروج</string>
+    <string name="msg_dialog_exit">شكرًا لك على استخدامك لتطبيقنا ، يرجى دعمنا من خلال تقديم تقييم 5 نجوم على متجر Google Play أو مشاركة التطبيق مع أصدقائك.</string>
+    <string name="btn_rate_us">قيمنا</string>
+    <string name="btn_share">شارك</string>
+    <string name="btn_quit">خروج</string>
+
+</resources>

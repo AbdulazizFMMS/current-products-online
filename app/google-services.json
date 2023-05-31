@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674493459741",
+    "project_id": "aktuelar",
+    "storage_bucket": "aktuelar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674493459741:android:7d1117f80d07985e33c5f4",
+        "android_client_info": {
+          "package_name": "com.app.bimaktuelleri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_LlGs8dwmrJOMqUqc7jfJK5hssdpxGFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/grid_space_recipes">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:padding="@dimen/grid_space_recipes"
+        android:weightSum="3">
+
+        <include
+            layout="@layout/shimmer_recipes_single_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/grid_space_recipes"
+            android:layout_weight="1" />
+
+        <include
+            layout="@layout/shimmer_recipes_single_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/grid_space_recipes"
+            android:layout_marginEnd="@dimen/grid_space_recipes"
+            android:layout_weight="1" />
+
+        <include
+            layout="@layout/shimmer_recipes_single_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/grid_space_recipes"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:padding="@dimen/grid_space_recipes"
+        android:weightSum="3">
+
+        <include
+            layout="@layout/shimmer_recipes_single_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/grid_space_recipes"
+            android:layout_weight="1" />
+
+        <include
+            layout="@layout/shimmer_recipes_single_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/grid_space_recipes"
+            android:layout_marginEnd="@dimen/grid_space_recipes"
+            android:layout_weight="1" />
+
+        <include
+            layout="@layout/shimmer_recipes_single_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/grid_space_recipes"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:padding="@dimen/grid_space_recipes"
+        android:weightSum="3">
+
+        <include
+            layout="@layout/shimmer_recipes_single_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/grid_space_recipes"
+            android:layout_weight="1" />
+
+        <include
+            layout="@layout/shimmer_recipes_single_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/grid_space_recipes"
+            android:layout_marginEnd="@dimen/grid_space_recipes"
+            android:layout_weight="1" />
+
+        <include
+            layout="@layout/shimmer_recipes_single_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/grid_space_recipes"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:padding="@dimen/grid_space_recipes"
+        android:weightSum="3">
+
+        <include
+            layout="@layout/shimmer_recipes_single_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/grid_space_recipes"
+            android:layout_weight="1" />
+
+        <include
+            layout="@layout/shimmer_recipes_single_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/grid_space_recipes"
+            android:layout_marginEnd="@dimen/grid_space_recipes"
+            android:layout_weight="1" />
+
+        <include
+            layout="@layout/shimmer_recipes_single_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/grid_space_recipes"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+</LinearLayout>
