@@ -50,6 +50,13 @@ Browse current product catalogs and discover weekly discounts — all in one app
 
 ---
 
+## 📲 Download & Test the App
+
+You can test the application by downloading the APK file directly:
+
+🔗 [Download APK from Google Drive](https://drive.google.com/file/d/1KQdZ03QhdU1IIVu5FzRhrFGAO28_-9lh/view?usp=sharing)
+
+> ⚠️ *Note: Before installing the APK, please make sure to enable "Install from Unknown Sources" in your device settings.*
 
 
 
