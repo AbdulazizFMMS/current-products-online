@@ -23,13 +23,15 @@ With its fast and user-friendly interface, *Aktüel Broşürler* helps you carry
 ---
 
 ## ScreenShots
-
-<img src="https://github.com/user-attachments/assets/5bd0dde8-3696-4d9d-b29d-0bb38a8008d7 width="300" />
-<img src=https://github.com/user-attachments/assets/98e45c5f-80b8-45bf-a9fb-6e5367da684c width="300" />
-<img src=https://github.com/user-attachments/assets/ad55f652-25c3-4445-b071-7b08ffc7bb1e width="300" />
 <img src=https://github.com/user-attachments/assets/2a33288c-6237-4eae-99ff-17b7052307a3 width="300" />
 <img src=https://github.com/user-attachments/assets/5cbf1f81-bbf3-4d15-bf73-6daaab04cbcc width="300" />
 <img src=https://github.com/user-attachments/assets/a19230e2-36b9-409b-811a-9196d7b777a8 width="300" />
+<img src="https://github.com/user-attachments/assets/5bd0dde8-3696-4d9d-b29d-0bb38a8008d7 width="300" />
+<img src=https://github.com/user-attachments/assets/ad55f652-25c3-4445-b071-7b08ffc7bb1e width="300" />
+<img src=https://github.com/user-attachments/assets/98e45c5f-80b8-45bf-a9fb-6e5367da684c width="300" />
+
+
+
 
 
 ## 📌 Disclaimer
